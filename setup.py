@@ -11,7 +11,7 @@ setup(
     url='',
     license='',
     author='mparker',
-    author_email='',
+    author_email='matthewdanielparker@gmail.com',
     description='A python wrapper for the Database of Curated Mutations API',
     install_requires=reqs
 )

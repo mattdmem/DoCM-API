@@ -1,6 +1,6 @@
 # A Python Wrapper for DoCM API
 
-The DOCM provides a REST API for accessing common mutation is cancer:
+The Database of Curated Mutations from WashU (DOCM) provides a REST API for accessing common mutation is cancer:
 
 http://docm.genome.wustl.edu/api
 
